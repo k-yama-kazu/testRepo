@@ -1,2 +1,3 @@
 add test
 add nanika
+tuika nihongo
